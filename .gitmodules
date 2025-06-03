@@ -1,3 +1,6 @@
 [submodule "dining-philosophers"]
 	path = dining-philosophers
 	url = https://github.com/Vilczyca/Dining_Philosophers_Problem
+[submodule "Multithread_Chat_Server"]
+	path = Multithread_Chat_Server
+	url = https://github.com/Vilczyca/Multithread_Chat_Server.git
